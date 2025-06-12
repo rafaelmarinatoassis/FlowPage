@@ -14,6 +14,8 @@ Este é um aplicativo em Python com interface gráfica que permite alternar auto
 
 A interface é simples e clara:
 
+![image](https://github.com/user-attachments/assets/bbd4110e-e309-4eae-97c4-7764c73c030a)
+
 1. Digite a **quantidade de abas** (máximo 10)
 2. Clique em **"Configurar"**
 3. Preencha os campos:
